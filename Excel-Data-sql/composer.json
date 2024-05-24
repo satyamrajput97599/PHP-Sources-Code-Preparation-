@@ -1,0 +1,17 @@
+{
+    "name": "acer/excel-data-sql",
+    "autoload": {
+        "psr-4": {
+            "Acer\\ExcelDataSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "satyamrajput97599",
+            "email": "143535267+satyamrajput97599@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}

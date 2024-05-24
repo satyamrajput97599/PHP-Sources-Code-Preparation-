@@ -1,0 +1,4 @@
+Install -> composer
+composer -v
+composer init
+ composer require phpoffice/phpspreadsheet

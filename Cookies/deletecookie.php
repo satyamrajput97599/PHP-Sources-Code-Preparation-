@@ -1,5 +1,5 @@
 <?php
 
-setcookie('youtube',NULL,time()-86400); // remove cookie if it exists
+setcookie('user',NULL,time()-86400); // remove cookie if it exists
 
 ?>

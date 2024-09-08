@@ -1,5 +1,5 @@
 <?php
 
-    setcookie('youtube','satyamchauhan', time()+600);
+    setcookie('user','satyamchauhan', time()+600);
 
 ?>

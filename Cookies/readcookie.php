@@ -1,5 +1,5 @@
 <?php
 
-echo $_COOKIE['youtube'];
+echo $_COOKIE['user'];
 
 ?>

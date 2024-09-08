@@ -1,6 +1,6 @@
 <?php
 
-setcookie('youtube' ,'satyam', time()+600);
+setcookie('user' ,'satyam', time()+600);
 
 // setcookie(name, value);
 
